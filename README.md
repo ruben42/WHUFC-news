@@ -17,3 +17,5 @@ Then make the following change in the users.db file: change from "confirm": 0 to
 Then do the node server.js command in the VSC terminal to start the server again and login.
 
 Navigate to http://localhost:3010
+
+Suggestion: do crtl + shift + j to see in the Console what's happening in the Web App.
